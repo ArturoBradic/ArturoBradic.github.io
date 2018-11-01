@@ -119,5 +119,10 @@ text-align: center;
   display: inline;
   align: middle;
 }
-      
+.front-imageleft, .front-imagecenter, .front-imageright {
+  display: inline;
+  float: left;
+  padding: 35px;
+}
+     
       
