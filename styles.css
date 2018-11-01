@@ -121,7 +121,7 @@ text-align: center;
 }
 .front-imageleft, .front-imagecenter, .front-imageright {
   display: inline;
-  float: left;
+  float: right;
   padding: 35px;
 }
      
