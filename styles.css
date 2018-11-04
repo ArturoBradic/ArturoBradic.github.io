@@ -119,8 +119,8 @@ text-align: center;
 
 #image-banner1, #image-banner2, #image-banner3 {
   display: inline;
-  width: 15%;
-  height: 15%;
+  width: 190px;
+  height: 190px;
 }
 #image-banner1 {
   position: relative;
