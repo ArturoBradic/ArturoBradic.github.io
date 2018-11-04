@@ -115,14 +115,32 @@ text-align: center;
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
-.front-image img{
+
+#image-banner1, #image-banner2, #image-banner3 {
   display: inline;
-  align: middle;
+
+  width: 15%;
+  height: 15%;
 }
-.front-imageleft, .front-imagecenter, .front-imageright {
-  display: inline;
-  float: right;
-  padding: 35px;
+#image-banner1 {
+
+  position: relative;
+  left: 15%;
 }
 
-test 
+#image-banner2 {
+
+  position: relative;
+  left: 27%;
+}
+
+#image-banner3 {
+
+  position: relative;
+  left: 40%;
+}
+
+#banner {
+
+  width: 100%
+}
